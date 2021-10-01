@@ -1,6 +1,6 @@
 ## UltraPermissions
 **By: EazyFTW**
-The UltraPermissions addon gives you the ability to create/delete groups and permissions fro UltraPermissions
+The UltraPermissions addon gives you the ability to create/delete groups and permissions for UltraPermissions
 <br>
 
 **`NOTE:` This addon requires UltraPermissions to load!**
